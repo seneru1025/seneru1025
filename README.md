@@ -70,8 +70,8 @@
  <p align="center">
 <a href=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Seneru Nethum/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
-<a href=""><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/senerunethum"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
 <a href="https://www.instagram.com/seneru.nethum/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instergram profile" height="30" width="40" /></a>
-<a href="https://mail.google.com/senerunethum2001@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail profile" height="30" width="40" /></a>
+<a href="senerunethum2001@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail profile" height="30" width="40" /></a>
 	
 	
