@@ -11,7 +11,6 @@
 - 💬 Ask me about **Java**
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never thought I would become a programmer!
 
 <br>
 <br>
